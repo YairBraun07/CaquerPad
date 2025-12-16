@@ -25,9 +25,9 @@ This is the board layout design where the components are soldered.
 ## 📦Case assembly
 Views of the 3D printed case and how all the parts fit together.
 
-![Case and Assembly Photo 1](assets/CASE_VIEW_2.png)
+![Case and Assembly Photo 1](assets/PAD_VIEW_2.png)
 
-![Case and Assembly Photo 2](assets/CASE_VIEW_3.png)
+![Case and Assembly Photo 2](assets/PAD_VIEW_3.png)
 
 ---
 
@@ -48,4 +48,6 @@ List of components required to build this project.
 ---
 
 ### Author
-* **[Yair Braun]** 
+* **[Yair Braun]**
+
+### Ethical Considerations: Google Gemini AI was utilized as a general guide throughout the entire project development, assisting with best practices, troubleshooting, and documentation structure."
