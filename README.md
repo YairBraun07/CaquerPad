@@ -6,7 +6,7 @@ Hackpad project - Hackclub. 4x3 macro pad with rotary encoder. Built for HackClu
 ## 📸 Project Overview 
 Here is a look at the finished and functional device.
 
-![Finished Hackpad Photo](img/PAD_VIEW.png)
+![Finished Hackpad Photo](assets/PAD_VIEW.png)
 
 ---
 
@@ -14,20 +14,20 @@ Here is a look at the finished and functional device.
 
 ### Schematic
 This is the wiring diagram showing how all components are connected.
-![Schematic Diagram](img/SCHEMATIC.png)
+![Schematic Diagram](assets/SCHEMATIC.png)
 
 ### PCB (Printed Circuit Board)
 This is the board layout design where the components are soldered.
-![PCB Layout](img/PCB.png)
+![PCB Layout](assets/PCB.png)
 
 ---
 
 ## 📦Case assembly
 Views of the 3D printed case and how all the parts fit together.
 
-![Case and Assembly Render/Photo](img/CASE_VIEW_2.png)
+![Case and Assembly Photo 1](assets/CASE_VIEW_2.png)
 
-![Case and Assembly Render/Photo](img/CASE_VIEW_3.png)
+![Case and Assembly Photo 2](assets/CASE_VIEW_3.png)
 
 ---
 
